@@ -1,0 +1,13 @@
+{
+  "name": "Paystand-Challengue",
+  "version": "0.0.1",
+  "description": "Paystand Challengue",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "~3.x",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "socket.io": "^1.7.4"
+  }
+}
